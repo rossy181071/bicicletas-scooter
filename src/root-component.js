@@ -29,7 +29,7 @@ export class RootComponent extends LitElement {
     }
     constructor() {
         super()
-        this.currentPage = "homepage"
+        this.currentPage = "scooter"
     }
 
     handlePageChange(e) {
