@@ -73,7 +73,7 @@ export class ScooterComponent extends LitElement {
        this.imgUrl5 = "https://ss201.liverpool.com.mx/xl/1122655136_7p.jpg"
        this.paragraph5 = "Ideal para ni&a con bonito e idel color y muy sofisticado"
 
-       
+
     }
 
     render () {
